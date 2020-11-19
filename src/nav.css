@@ -1,0 +1,9 @@
+.nav {
+  padding-top: 35px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-link{
+  align-items: center;
+}
